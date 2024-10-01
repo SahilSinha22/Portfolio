@@ -16,7 +16,7 @@ const TAB_DATA = [
       
         <li>React</li>
         <li>MongoDB</li>
-        <li>React</li>
+        <li>SQL</li>
       </ul>
     ),
   },
